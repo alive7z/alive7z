@@ -2,26 +2,31 @@
 
 # Hi 👋, I'm Sumit Singh Bagdwal
 
-### Software Developer | B.Tech CSE | Full-Stack & AI Systems
+### Software Developer | B.Tech CSE | Full-Stack Development
 
 <p>
   <a href="https://sumit-portfolio-ten-xi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+
   <a href="https://linkedin.com/in/sumit-singh-bagdwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://leetcode.com/alive7z">
-    <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+
   <a href="https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=alive7z&label=Profile%20Views&color=0969DA&style=flat-square" alt="Profile Views" />
+
   <img src="https://img.shields.io/github/followers/alive7z?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Falive7z&style=flat-square&logo=github&color=0969DA" alt="Public Repositories" />
 </p>
 
@@ -32,7 +37,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **[IBVAP — Intelligent Border Video Analytics Platform](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)**
-- 🧠 Interested in **Backend Engineering, Full-Stack Development, AI Systems & Cloud**
+- 🧠 Interested in **Full-Stack Development, Backend Engineering & Cloud**
 - 🌱 Currently learning **DSA, System Design, Backend Development & Cloud Computing**
 - 💬 Ask me about **C++, React, Node.js, SQL, REST APIs & WebSockets**
 - 👨‍💻 Explore my work at **[sumit-portfolio-ten-xi.vercel.app](https://sumit-portfolio-ten-xi.vercel.app/)**
@@ -45,19 +50,22 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛡️ IBVAP
 
 **Intelligent Border Video Analytics Platform**
 
-AI-powered surveillance platform that transforms existing CCTV infrastructure into a context-aware system with detection, tracking, explainable risk analysis, alerts and secure evidence handling.
+AI-powered surveillance platform that transforms existing CCTV infrastructure into a context-aware system with detection, tracking, explainable risk analysis, intelligent alerts, and secure evidence handling.
 
 **Key Areas**
 
 `Computer Vision` `Real-Time Systems` `Backend` `Security` `Cloud`
 
-[View Repository →](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)
+<br/>
+
+[**View Repository →**](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)
 
 </td>
 
@@ -67,15 +75,18 @@ AI-powered surveillance platform that transforms existing CCTV infrastructure in
 
 **Civic Issue Reporting Platform**
 
-Full-stack civic-tech platform for reporting and managing public issues with geotagging, real-time updates, role-based workflows, smart prioritization and citizen-verified resolutions.
+Full-stack civic-tech platform for reporting and managing public issues with geotagging, real-time updates, role-based workflows, smart prioritization, and citizen-verified resolutions.
 
 **Key Areas**
 
-`Full Stack` `Real-Time` `Civic Tech` `APIs`
+`Full Stack` `Real-Time` `Civic Tech` `REST APIs`
 
-[View Repository →](https://github.com/alive7z/JanaSahaya)
+<br/>
+
+[**View Repository →**](https://github.com/alive7z/JanaSahaya)
 
 </td>
+
 </tr>
 </table>
 
@@ -89,27 +100,35 @@ Full-stack civic-tech platform for reporting and managing public issues with geo
 
 </div>
 
+<br/>
+
 ### Languages
+
 `C++` `C` `JavaScript` `Python` `SQL`
 
 ### Frontend
-`React` `HTML` `CSS` `Tailwind CSS`
+
+`React.js` `HTML` `CSS` `Tailwind CSS`
 
 ### Backend
+
 `Node.js` `Express.js` `FastAPI` `REST APIs` `WebSockets` `Socket.IO`
 
 ### Databases
+
 `MySQL` `MongoDB` `Redis`
 
 ### AI / Computer Vision
+
 `PyTorch` `YOLO` `OpenCV`
 
 ### Cloud & DevOps
+
 `AWS` `Google Cloud` `Docker` `Nginx` `Git` `GitHub`
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -133,27 +152,7 @@ Full-stack civic-tech platform for reporting and managing public issues with geo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=alive7z&hide_border=true&border_radius=8" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alive7z&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alive7z&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophies" />
+<img src="https://streak-stats.demolab.com?user=alive7z&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
 </div>
 
@@ -164,19 +163,19 @@ Full-stack civic-tech platform for reporting and managing public issues with geo
 <div align="center">
 
 <a href="https://linkedin.com/in/sumit-singh-bagdwal">
-  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh%20Bagdwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh%20Bagdwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://leetcode.com/alive7z">
-  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <a href="https://github.com/alive7z">
-  <img src="https://img.shields.io/badge/GitHub-alive7z-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-alive7z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://sumit-portfolio-ten-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
