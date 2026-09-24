@@ -104,7 +104,7 @@ Full-stack civic-tech platform for reporting and managing public issues with geo
 
 ### Languages
 
-`C++` `C` `JavaScript` `Python` `SQL`
+`C` `C++` `JavaScript` `Python` `SQL`
 
 ### Frontend
 
