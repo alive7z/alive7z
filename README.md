@@ -256,77 +256,33 @@ Full-stack civic-tech platform that allows citizens to report local problems and
 
 ## 🎯 Current Focus
 
-<table align="center">
+🧩 **DSA**  
+Problem Solving · Algorithms · Data Structures
 
-<tr>
+<br/>
 
-<td align="center" width="33%">
+⚙️ **Backend Engineering**  
+REST APIs · Authentication · Scalable Services
 
-### 🧩 DSA
+<br/>
 
-Problem Solving  
-Algorithms  
-Data Structures
+🏗️ **System Design**  
+Low-Level Design · Software Architecture · Scalability
 
-</td>
+<br/>
 
-<td align="center" width="33%">
+☁️ **Cloud & DevOps**  
+Deployment · Infrastructure · Cloud Services
 
-### ⚙️ Backend
+<br/>
 
-REST APIs  
-Authentication  
-Scalable Services
+⚡ **Real-Time Systems**  
+WebSockets · Socket.IO · Event-Driven Applications
 
-</td>
+<br/>
 
-<td align="center" width="33%">
-
-### 🏗️ System Design
-
-Software Architecture  
-Low-Level Design  
-Scalability
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="33%">
-
-### ☁️ Cloud
-
-Deployment  
-Infrastructure  
-Cloud Services
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ Real-Time Systems
-
-WebSockets  
-Socket.IO  
-Event-Driven Systems
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 Computer Vision
-
-Detection  
-Tracking  
-Video Analytics
-
-</td>
-
-</tr>
-
-</table>
+🤖 **Computer Vision**  
+Object Detection · Tracking · Video Analytics
 
 ---
 
