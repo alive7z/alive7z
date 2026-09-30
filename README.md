@@ -67,7 +67,9 @@
 
 AI-powered surveillance platform that transforms existing CCTV infrastructure into a context-aware video analytics system.
 
-### ✨ Highlights
+<p>
+  <strong>✨ Highlights</strong>
+</p>
 
 - Real-time object detection and tracking
 - Explainable risk scoring
@@ -78,7 +80,9 @@ AI-powered surveillance platform that transforms existing CCTV infrastructure in
 - Role-based access control
 - Containerized deployment
 
-### 🛠️ Tech
+<p>
+  <strong>🛠️ Tech</strong>
+</p>
 
 `Python` `FastAPI` `YOLO` `OpenCV`
 
@@ -106,7 +110,9 @@ AI-powered surveillance platform that transforms existing CCTV infrastructure in
 
 Full-stack civic-tech platform that allows citizens to report local problems and enables authorities to manage them through structured workflows.
 
-### ✨ Highlights
+<p>
+  <strong>✨ HIGHLIGHTS</strong>
+</p>
 
 - Geotagged civic issue reporting
 - Citizen voting and comments
@@ -116,7 +122,9 @@ Full-stack civic-tech platform that allows citizens to report local problems and
 - Audit logging
 - Duplicate issue detection
 
-### 🛠️ Tech
+<p>
+  <strong>🛠️ Tech</strong>
+</p>
 
 `React.js` `Node.js` `Express.js`
 
