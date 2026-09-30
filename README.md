@@ -1,38 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=180&section=header&text=Sumit%20Singh%20Bagdwal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=180&section=header&text=Sumit%20Singh%20Bagdwal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=17" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Real-Time+Systems+%E2%9A%A1;Exploring+Cloud+%26+Computer+Vision+%E2%98%81%EF%B8%8F;Always+Building.+Learning.+Improving." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Real-Time+Systems+%E2%9A%A1;Exploring+Cloud+%26+Computer+Vision+%E2%98%81%EF%B8%8F;Building.+Learning.+Improving."
+    alt="Typing Animation"
+  />
 </a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <a href="https://sumit-portfolio-ten-xi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="https://sumit-portfolio-ten-xi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
-  <a href="https://linkedin.com/in/sumit-singh-bagdwal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://linkedin.com/in/sumit-singh-bagdwal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="https://leetcode.com/alive7z">
-    <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+<a href="https://leetcode.com/alive7z">
+  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-  <a href="https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</p>
+<a href="https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=alive7z&label=Profile%20Views&color=0969DA&style=flat-square" alt="Profile Views" />
+<br/><br/>
 
-  <img src="https://img.shields.io/github/followers/alive7z?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=alive7z&label=Profile%20Views&color=0969DA&style=flat-square" alt="Profile Views"/>
 
-  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Falive7z&style=flat-square&logo=github&color=0969DA" alt="Public Repositories" />
-</p>
+<img src="https://img.shields.io/github/followers/alive7z?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Falive7z&style=flat-square&logo=github&color=0969DA" alt="Public Repositories"/>
 
 </div>
 
@@ -40,89 +41,97 @@
 
 ## 👨‍💻 About Me
 
-```text
-🎓 B.Tech Computer Science & Engineering
-💻 Full-Stack & Backend Development
-⚡ Real-Time Systems
-☁️ Cloud & DevOps
-🤖 Computer Vision
-🧠 Data Structures & Algorithms
-```
-
 - 🔭 Currently building **[IBVAP — Intelligent Border Video Analytics Platform](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)**
 - 🧠 Interested in **Full-Stack Development, Backend Engineering & Cloud**
 - 🌱 Currently learning **DSA, System Design, Backend Development & Cloud Computing**
+- ⚙️ I enjoy building **backend systems, APIs, real-time applications and full-stack products**
 - 💬 Ask me about **C++, React, Node.js, SQL, REST APIs & WebSockets**
-- 👨‍💻 Explore my work at **[sumit-portfolio-ten-xi.vercel.app](https://sumit-portfolio-ten-xi.vercel.app/)**
+- 🌐 Explore my work at **[My Portfolio](https://sumit-portfolio-ten-xi.vercel.app/)**
 - 📄 View my **[Resume](https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing)**
-- ⚡ Fun fact: **I am a singer 🎤**
+- 🎤 Fun fact: **I am a singer**
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alive7z&repo=Intelligent-Border-Video-Analytics-Platform&theme=default&hide_border=true" />
-</a>
-
-<a href="https://github.com/alive7z/JanaSahaya">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=alive7z&repo=JanaSahaya&theme=default&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🛡️ IBVAP
+<h3 align="center">🛡️ IBVAP</h3>
 
-**Intelligent Border Video Analytics Platform**
+<p align="center">
+<b>Intelligent Border Video Analytics Platform</b>
+</p>
 
-AI-powered surveillance platform that transforms existing CCTV infrastructure into a context-aware system with detection, tracking, explainable risk analysis, intelligent alerts, and secure evidence handling.
+AI-powered surveillance platform that transforms existing CCTV infrastructure into a context-aware video analytics system.
 
-#### ⚙️ Core Areas
+### ✨ Highlights
 
-`Computer Vision` `Real-Time Systems`  
-`Backend Engineering` `Security` `Cloud`
+- Real-time object detection and tracking
+- Explainable risk scoring
+- Restricted-zone monitoring
+- Intelligent incident generation
+- Secure evidence handling
+- Real-time WebSocket communication
+- Role-based access control
+- Containerized deployment
 
-#### 🔧 Technologies
+### 🛠️ Tech
 
-`Python` `FastAPI` `YOLO` `OpenCV`  
-`WebSockets` `Redis` `Docker`
+`Python` `FastAPI` `YOLO` `OpenCV`
+
+`ByteTrack` `Redis` `WebSockets`
+
+`Docker` `Nginx`
 
 <br/>
 
-[**Explore IBVAP →**](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)
+<p align="center">
+<a href="https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform">
+  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="IBVAP Repository"/>
+</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏙️ JanaSahaya
+<h3 align="center">🏙️ JanaSahaya</h3>
 
-**Civic Issue Reporting Platform**
+<p align="center">
+<b>Civic Issue Reporting Platform</b>
+</p>
 
-Full-stack civic-tech platform for reporting and managing public issues with geotagging, real-time updates, role-based workflows, smart prioritization, and citizen-verified resolutions.
+Full-stack civic-tech platform that allows citizens to report local problems and enables authorities to manage them through structured workflows.
 
-#### ⚙️ Core Areas
+### ✨ Highlights
 
-`Full Stack` `Real-Time Systems`  
-`Civic Tech` `REST APIs`
+- Geotagged civic issue reporting
+- Citizen voting and comments
+- Real-time status updates
+- Role-based workflows
+- Smart issue prioritization
+- SLA tracking
+- Audit logging
+- Duplicate issue detection
 
-#### 🔧 Technologies
+### 🛠️ Tech
 
-`React` `Node.js` `Express.js` `MySQL`  
-`Socket.IO` `Docker`
+`React.js` `Node.js` `Express.js`
+
+`MySQL` `Socket.IO`
+
+`REST APIs` `Docker`
 
 <br/>
 
-[**Explore JanaSahaya →**](https://github.com/alive7z/JanaSahaya)
+<p align="center">
+<a href="https://github.com/alive7z/JanaSahaya">
+  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="JanaSahaya Repository"/>
+</a>
+</p>
 
 </td>
 
@@ -133,124 +142,252 @@ Full-stack civic-tech platform for reporting and managing public issues with geo
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+<b>Languages</b>
+</p>
 
-### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark" alt="Programming Languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=light" />
+<p align="center">
+  <code>C</code>
+  <code>C++</code>
+  <code>JavaScript</code>
+  <code>Python</code>
+  <code>SQL</code>
+</p>
 
-<br/><br/>
+<br/>
 
-`C` • `C++` • `JavaScript` • `Python` • `SQL`
+<p align="center">
+<b>Frontend Development</b>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
+</p>
 
-### 🎨 Frontend
+<p align="center">
+  <code>React.js</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>Tailwind CSS</code>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=light" />
+<br/>
 
-<br/><br/>
+<p align="center">
+<b>Backend Development</b>
+</p>
 
-`React.js` • `HTML` • `CSS` • `Tailwind CSS`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend Technologies"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <code>Node.js</code>
+  <code>Express.js</code>
+  <code>FastAPI</code>
+  <code>REST APIs</code>
+  <code>WebSockets</code>
+  <code>Socket.IO</code>
+</p>
 
-### ⚙️ Backend
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light" />
+<p align="center">
+<b>Databases & Caching</b>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" alt="Databases"/>
+</p>
 
-`Node.js` • `Express.js` • `FastAPI` • `REST APIs` • `WebSockets` • `Socket.IO`
+<p align="center">
+  <code>MySQL</code>
+  <code>MongoDB</code>
+  <code>Redis</code>
+</p>
 
-<br/><br/>
+<br/>
 
-### 🗄️ Databases & Caching
+<p align="center">
+<b>AI & Computer Vision</b>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and Computer Vision"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <code>PyTorch</code>
+  <code>YOLO</code>
+  <code>OpenCV</code>
+</p>
 
-`MySQL` • `MongoDB` • `Redis`
+<br/>
 
-<br/><br/>
+<p align="center">
+<b>Cloud & DevOps</b>
+</p>
 
-### 🤖 AI / Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,git,github&theme=dark" alt="Cloud and DevOps"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" />
-
-<br/><br/>
-
-`PyTorch` • `YOLO` • `OpenCV`
-
-<br/><br/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,git,github&theme=light" />
-
-<br/><br/>
-
-`AWS` • `Google Cloud` • `Docker` • `Nginx` • `Git` • `GitHub`
-
-</div>
+<p align="center">
+  <code>AWS</code>
+  <code>Google Cloud</code>
+  <code>Docker</code>
+  <code>Nginx</code>
+  <code>Git</code>
+  <code>GitHub</code>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🧩 DSA
+
+Problem Solving  
+Algorithms  
+Data Structures
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+REST APIs  
+Authentication  
+Scalable Services
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏗️ System Design
+
+Software Architecture  
+Low-Level Design  
+Scalability
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud
+
+Deployment  
+Infrastructure  
+Cloud Services
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ Real-Time Systems
+
+WebSockets  
+Socket.IO  
+Event-Driven Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Computer Vision
+
+Detection  
+Tracking  
+Video Analytics
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-| Area | Currently Working On |
-| :--- | :--- |
-| 🧩 DSA | Problem solving & algorithmic thinking |
-| ⚙️ Backend | APIs, authentication & scalable services |
-| 🏗️ System Design | Designing maintainable software systems |
-| ☁️ Cloud | Cloud infrastructure & deployment |
-| ⚡ Real-Time | WebSockets & event-driven applications |
-| 🤖 Computer Vision | Detection, tracking & video analytics |
+<p>
+Watch the snake eat my GitHub contributions 👇
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alive7z/alive7z/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alive7z/alive7z/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/alive7z/alive7z/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Highlights
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alive7z&theme=github" alt="GitHub Profile Details" />
-
-<br/><br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alive7z&theme=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alive7z&theme=github" alt="Top Languages by Commit" />
-
-</div>
+- 🛡️ **Smart India Hackathon 2026 Shortlisted** — Intelligent Border Video Analytics Platform
+- ☁️ **Lead — AWS Student Builder Group, GEHU Bhimtal**
+- 💡 Organized **INNOVATE 1.0 Ideathon**
+- 📊 Started a **Data Engineering learning initiative** for students
+- 🧠 Earned **NPTEL — Data Structures and Design**
+- 💻 Earned **LeetCode 50 Days Badge**
+- 🎖️ **NCC B Certificate**
 
 ---
 
-## 📈 Contribution Activity
+## 👨‍💼 Leadership
 
-<div align="center">
+### ☁️ Lead — AWS Student Builder Group
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alive7z&bg_color=ffffff&color=0969DA&line=0969DA&point=0A66C2&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+**Graphic Era Hill University, Bhimtal**
 
-</div>
+I help organize student-focused initiatives around:
+
+`Software Development`
+
+`Cloud Computing`
+
+`Data Engineering`
+
+`Problem Solving`
+
+`Technical Workshops`
+
+`Coding Initiatives`
+
+`Campus Technology Events`
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alive7z&hide_border=true&border_radius=8" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🧩 More About My Development Journey
+## 🧩 More About Me
 
 <details>
 
@@ -258,16 +395,17 @@ Full-stack civic-tech platform for reporting and managing public issues with geo
 
 <br/>
 
-I enjoy developing applications that combine **clean user experiences with strong backend systems**.
+I enjoy developing applications that combine clean user experiences with reliable backend systems.
 
-My main areas of interest include:
+My primary interests include:
 
-- Scalable backend services
-- Full-stack web applications
+- Full-stack applications
+- Backend services
+- REST APIs
 - Real-time communication systems
 - Cloud-based applications
 - Computer vision systems
-- Developer tools and APIs
+- Developer tools
 
 </details>
 
@@ -279,14 +417,15 @@ My main areas of interest include:
 
 <br/>
 
-I'm continuously improving my knowledge of:
+I'm currently strengthening my understanding of:
 
 - Data Structures & Algorithms
 - Low-Level System Design
 - Backend Architecture
-- Cloud Computing
 - Database Design
+- Cloud Computing
 - Real-Time Systems
+- Software Engineering
 
 </details>
 
@@ -294,7 +433,25 @@ I'm continuously improving my knowledge of:
 
 <details>
 
-<summary><b>🎯 My Development Philosophy</b></summary>
+<summary><b>🚀 Areas I Want to Explore More</b></summary>
+
+<br/>
+
+- Distributed Systems
+- Scalable Backend Architecture
+- Cloud Infrastructure
+- Microservices
+- AI-powered applications
+- Machine Learning
+- System Design
+
+</details>
+
+<br/>
+
+<details>
+
+<summary><b>🎯 Development Philosophy</b></summary>
 
 <br/>
 
@@ -306,24 +463,24 @@ I'm continuously improving my knowledge of:
 
 ---
 
-## 🌐 Developer Profiles
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/alive7z">
-  <img src="https://img.shields.io/badge/GitHub-alive7z-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://linkedin.com/in/sumit-singh-bagdwal">
+  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh%20Bagdwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/alive7z">
-  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="https://linkedin.com/in/sumit-singh-bagdwal">
-  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh%20Bagdwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/alive7z">
+  <img src="https://img.shields.io/badge/GitHub-alive7z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://sumit-portfolio-ten-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -342,6 +499,6 @@ I'm continuously improving my knowledge of:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=100&section=footer" alt="Footer"/>
 
 </div>
