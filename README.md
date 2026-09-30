@@ -290,10 +290,6 @@ Object Detection · Tracking · Video Analytics
 
 <div align="center">
 
-<p>
-Watch the snake eat my GitHub contributions 👇
-</p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
