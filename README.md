@@ -59,7 +59,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ IBVAP</h3>
+<h3 align="center">IBVAP</h3>
 
 <p align="center">
 <b>Intelligent Border Video Analytics Platform</b>
@@ -102,7 +102,7 @@ AI-powered surveillance platform that transforms existing CCTV infrastructure in
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏙️ JanaSahaya</h3>
+<h3 align="center">JanaSahaya</h3>
 
 <p align="center">
 <b>Civic Issue Reporting Platform</b>
@@ -360,13 +360,13 @@ Watch the snake eat my GitHub contributions 👇
 
 ## 🏆 Highlights
 
-- 🛡️ **Smart India Hackathon 2026 Shortlisted** — Intelligent Border Video Analytics Platform
-- ☁️ **Lead — AWS Student Builder Group, GEHU Bhimtal**
-- 💡 Organized **INNOVATE 1.0 Ideathon**
-- 📊 Started a **Data Engineering learning initiative** for students
-- 🧠 Earned **NPTEL — Data Structures and Design**
-- 💻 Earned **LeetCode 50 Days Badge**
-- 🎖️ **NCC B Certificate**
+- **Smart India Hackathon 2026 Shortlisted** — Intelligent Border Video Analytics Platform
+- **Lead — AWS Student Builder Group, GEHU Bhimtal**
+- Organized **INNOVATE 1.0 Ideathon**
+- Started a **Data Engineering learning initiative** for students
+- Earned **NPTEL — Data Structures and Design**
+- Earned **LeetCode 100 Days Badge**
+- **NCC B Certificate**
 
 ---
 
