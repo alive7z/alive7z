@@ -111,7 +111,6 @@ Full-stack civic-tech platform that allows citizens to report local problems and
 - Geotagged civic issue reporting
 - Citizen voting and comments
 - Real-time status updates
-- Role-based workflows
 - Smart issue prioritization
 - SLA tracking
 - Audit logging
