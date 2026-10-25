@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=180&section=header&text=Sumit%20Singh%20Bagdwal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Full-Stack%20%26%20Backend%20Engineering&descAlignY=58&descSize=17" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,50:0969DA,100:00B4D8&amp;height=180&amp;section=header&amp;text=Sumit%20Singh%20Bagdwal&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Full-Stack%20and%20Backend%20Engineering&amp;descAlignY=58&amp;descSize=17" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Reliable+Financial+%26+Real-Time+Systems+%E2%9A%A1;Exploring+Cloud+%26+Computer+Vision+%E2%98%81%EF%B8%8F;Building.+Learning.+Improving."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=1000&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Reliable+Financial+%26+Real-Time+Systems+%E2%9A%A1;Exploring+Cloud+%26+Computer+Vision+%E2%98%81%EF%B8%8F;Building.+Learning.+Improving."
     alt="Typing Animation"
   />
 </a>
@@ -12,28 +12,28 @@
 <br/><br/>
 
 <a href="https://sumit-portfolio-ten-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://linkedin.com/in/sumit-singh-bagdwal">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/alive7z">
-  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="Resume"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alive7z&label=Profile%20Views&color=0969DA&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=alive7z&amp;label=Profile%20Views&amp;color=0969DA&amp;style=flat-square" alt="Profile Views"/>
 
-<img src="https://img.shields.io/github/followers/alive7z?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/alive7z?label=Followers&amp;style=flat-square&amp;logo=github" alt="GitHub Followers"/>
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Falive7z&style=flat-square&logo=github&color=0969DA" alt="Public Repositories"/>
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Falive7z&amp;style=flat-square&amp;logo=github&amp;color=0969DA" alt="Public Repositories"/>
 
 </div>
 
@@ -89,7 +89,7 @@ Merchant-focused payment sandbox using Express.js REST APIs and React dashboards
 
 <p align="center">
 <a href="https://github.com/alive7z/Pratyaya">
-  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Pratyaya Repository"/>
+  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Pratyaya Repository"/>
 </a>
 </p>
 
@@ -127,7 +127,7 @@ AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that
 
 <p align="center">
 <a href="https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform">
-  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="IBVAP Repository"/>
+  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="IBVAP Repository"/>
 </a>
 </p>
 
@@ -145,7 +145,7 @@ AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python&amp;theme=dark" alt="Programming Languages"/>
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&amp;theme=dark" alt="Frontend Technologies"/>
 </p>
 
 <p align="center">
@@ -181,7 +181,7 @@ AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;theme=dark" alt="Backend Technologies"/>
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@ AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&amp;theme=dark" alt="Databases"/>
 </p>
 
 <p align="center">
@@ -219,7 +219,7 @@ AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel&theme=dark" alt="Cloud and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel&amp;theme=dark" alt="Cloud and DevOps"/>
 </p>
 
 <p align="center">
@@ -391,19 +391,19 @@ I'm currently deepening my knowledge in:
 <div align="center">
 
 <a href="https://linkedin.com/in/sumit-singh-bagdwal">
-  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh%20Bagdwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Singh%20Bagdwal-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://leetcode.com/alive7z">
-  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://github.com/alive7z">
-  <img src="https://img.shields.io/badge/GitHub-alive7z-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-alive7z-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://sumit-portfolio-ten-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -422,6 +422,6 @@ I'm currently deepening my knowledge in:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=100&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,50:0969DA,100:00B4D8&amp;height=100&amp;section=footer" alt="Footer"/>
 
 </div>
