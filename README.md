@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=180&section=header&text=Sumit%20Singh%20Bagdwal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=17" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0969DA,100:00B4D8&height=180&section=header&text=Sumit%20Singh%20Bagdwal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Full-Stack%20%26%20Backend%20Engineering&descAlignY=58&descSize=17" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Real-Time+Systems+%E2%9A%A1;Exploring+Cloud+%26+Computer+Vision+%E2%98%81%EF%B8%8F;Building.+Learning.+Improving."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Building+Reliable+Financial+%26+Real-Time+Systems+%E2%9A%A1;Exploring+Cloud+%26+Computer+Vision+%E2%98%81%EF%B8%8F;Building.+Learning.+Improving."
     alt="Typing Animation"
   />
 </a>
@@ -41,11 +41,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **[IBVAP — Intelligent Border Video Analytics Platform](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)**
-- 🧠 Interested in **Full-Stack Development, Backend Engineering & Cloud**
-- 🌱 Currently learning **DSA, System Design, Backend Development & Cloud Computing**
-- ⚙️ I enjoy building **backend systems, APIs, real-time applications and full-stack products**
-- 💬 Ask me about **C++, React, Node.js, SQL, REST APIs & WebSockets**
+- 🔭 Currently building **[IBVAP — Intelligent Border Video Analytics Platform](https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform)** & **[Pratyaya — Payment Reliability Platform](https://github.com/alive7z/Pratyaya)**
+- 🧠 Interested in **Full-Stack Development, Backend Engineering & Cloud Systems**
+- 🌱 Currently learning **Data Structures & Algorithms, System Design, Distributed Systems & Cloud Infrastructure**
+- ⚙️ I enjoy building **reliable backend systems, REST APIs, idempotent financial workflows, and real-time applications**
+- 💬 Ask me about **C++, Node.js, Express.js, React.js, Python, SQL, REST APIs & System Design**
 - 🌐 Explore my work at **[My Portfolio](https://sumit-portfolio-ten-xi.vercel.app/)**
 - 📄 View my **[Resume](https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing)**
 - 🎤 Fun fact: **I am a singer**
@@ -59,42 +59,37 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">IBVAP</h3>
+<h3 align="center">Pratyaya</h3>
 
 <p align="center">
-<b>Intelligent Border Video Analytics Platform</b>
+<b>Payment Reliability Platform</b>
 </p>
 
-AI-powered surveillance platform that transforms existing CCTV infrastructure into a context-aware video analytics system.
+Merchant-focused payment sandbox using Express.js REST APIs and React dashboards, supporting authorization, capture, and partial refunds across multi-role workflows.
 
 <p>
   <strong>✨ Highlights</strong>
 </p>
 
-- Real-time object detection and tracking
-- Explainable risk scoring
-- Restricted-zone monitoring
-- Intelligent incident generation
-- Secure evidence handling
-- Real-time WebSocket communication
-- Role-based access control
-- Containerized deployment
+- Idempotent payment workflows & double-entry ledger
+- Transactional outbox with MongoDB ACID transactions
+- Multi-role dashboard supporting 4 demo roles
+- Background jobs for accurate, traceable financial records
+- Comprehensive Vitest suite (40 passing unit & provider tests)
 
 <p>
   <strong>🛠️ Tech</strong>
 </p>
 
-`Python` `FastAPI` `YOLO` `OpenCV`
+`Node.js` `Express.js` `React.js` `MongoDB Atlas`
 
-`ByteTrack` `Redis` `WebSockets`
-
-`Docker` `Nginx`
+`Mongoose` `REST APIs` `Vitest` `Docker`
 
 <br/>
 
 <p align="center">
-<a href="https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform">
-  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="IBVAP Repository"/>
+<a href="https://github.com/alive7z/Pratyaya">
+  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Pratyaya Repository"/>
 </a>
 </p>
 
@@ -102,41 +97,37 @@ AI-powered surveillance platform that transforms existing CCTV infrastructure in
 
 <td width="50%" valign="top">
 
-<h3 align="center">JanaSahaya</h3>
+<h3 align="center">IBVAP</h3>
 
 <p align="center">
-<b>Civic Issue Reporting Platform</b>
+<b>Intelligent Border Video Analytics Platform</b>
 </p>
 
-Full-stack civic-tech platform that allows citizens to report local problems and enables authorities to manage them through structured workflows.
+AI-powered surveillance platform shortlisted for Smart India Hackathon 2026 that detects, tracks, and assesses border security risks in real time.
 
 <p>
-  <strong>✨ HIGHLIGHTS</strong>
+  <strong>✨ Highlights</strong>
 </p>
 
-- Geotagged civic issue reporting
-- Citizen voting and comments
-- Real-time status updates
-- Smart issue prioritization
-- SLA tracking
-- Audit logging
-- Duplicate issue detection
+- Object detection & tracking via YOLO11 and ByteTrack
+- Risk scoring & duplicate alert prevention
+- 10.49 FPS & 91.95 ms processing latency on Apple M4 CPU
+- SHA-256 & Ed25519 evidence integrity verification
+- Dockerized deployment on AWS EC2 with Redis & MySQL
 
 <p>
   <strong>🛠️ Tech</strong>
 </p>
 
-`React.js` `Node.js` `Express.js`
+`Python` `FastAPI` `YOLO11` `OpenCV`
 
-`MySQL` `Socket.IO`
-
-`REST APIs` `Docker`
+`ByteTrack` `Redis` `MySQL` `Docker` `AWS`
 
 <br/>
 
 <p align="center">
-<a href="https://github.com/alive7z/JanaSahaya">
-  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="JanaSahaya Repository"/>
+<a href="https://github.com/alive7z/Intelligent-Border-Video-Analytics-Platform">
+  <img src="https://img.shields.io/badge/View_Repository-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="IBVAP Repository"/>
 </a>
 </p>
 
@@ -158,11 +149,11 @@ Full-stack civic-tech platform that allows citizens to report local problems and
 </p>
 
 <p align="center">
-  <code>C</code>
   <code>C++</code>
-  <code>JavaScript</code>
+  <code>JavaScript (ES6+)</code>
   <code>Python</code>
   <code>SQL</code>
+  <code>C</code>
 </p>
 
 <br/>
@@ -172,20 +163,21 @@ Full-stack civic-tech platform that allows citizens to report local problems and
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
 </p>
 
 <p align="center">
   <code>React.js</code>
-  <code>HTML</code>
-  <code>CSS</code>
+  <code>Vite</code>
   <code>Tailwind CSS</code>
+  <code>HTML5</code>
+  <code>CSS3</code>
 </p>
 
 <br/>
 
 <p align="center">
-<b>Backend Development</b>
+<b>Backend & APIs</b>
 </p>
 
 <p align="center">
@@ -197,6 +189,8 @@ Full-stack civic-tech platform that allows citizens to report local problems and
   <code>Express.js</code>
   <code>FastAPI</code>
   <code>REST APIs</code>
+  <code>JWT</code>
+  <code>RBAC</code>
   <code>WebSockets</code>
   <code>Socket.IO</code>
 </p>
@@ -208,81 +202,61 @@ Full-stack civic-tech platform that allows citizens to report local problems and
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Databases"/>
 </p>
 
 <p align="center">
+  <code>MongoDB Atlas</code>
+  <code>Mongoose</code>
   <code>MySQL</code>
-  <code>MongoDB</code>
   <code>Redis</code>
 </p>
 
 <br/>
 
 <p align="center">
-<b>AI & Computer Vision</b>
+<b>Cloud, DevOps & Tools</b>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI and Computer Vision"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel&theme=dark" alt="Cloud and DevOps"/>
 </p>
 
 <p align="center">
-  <code>PyTorch</code>
-  <code>YOLO</code>
-  <code>OpenCV</code>
-</p>
-
-<br/>
-
-<p align="center">
-<b>Cloud & DevOps</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,git,github&theme=dark" alt="Cloud and DevOps"/>
-</p>
-
-<p align="center">
-  <code>AWS</code>
-  <code>Google Cloud</code>
+  <code>AWS (EC2/S3/IAM)</code>
   <code>Docker</code>
-  <code>Nginx</code>
   <code>Git</code>
-  <code>GitHub</code>
+  <code>GitHub Actions</code>
+  <code>Postman</code>
+  <code>Vercel</code>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-🧩 **DSA**  
-Problem Solving · Algorithms · Data Structures
+🧩 **Data Structures & Algorithms**  
+Problem Solving · C++ · Algorithmic Optimization
 
 <br/>
 
 ⚙️ **Backend Engineering**  
-REST APIs · Authentication · Scalable Services
+Idempotence · Transactional Outbox · Double-Entry Systems · Scalable APIs
 
 <br/>
 
-🏗️ **System Design**  
-Low-Level Design · Software Architecture · Scalability
+🏗️ **System Design & Software Practices**  
+Low-Level Design · Distributed Systems · System Reliability · OOP
 
 <br/>
 
-☁️ **Cloud & DevOps**  
-Deployment · Infrastructure · Cloud Services
+☁️ **Cloud & Infrastructure**  
+AWS Services · Containerization with Docker · CI/CD Pipelines
 
 <br/>
 
-⚡ **Real-Time Systems**  
-WebSockets · Socket.IO · Event-Driven Applications
-
-<br/>
-
-🤖 **Computer Vision**  
-Object Detection · Tracking · Video Analytics
+⚡ **Real-Time & AI Systems**  
+WebSockets · Event-Driven Architecture · Computer Vision (YOLO11, OpenCV)
 
 ---
 
@@ -310,15 +284,15 @@ Object Detection · Tracking · Video Analytics
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights & Certifications
 
-- **Smart India Hackathon 2026 Shortlisted** — Intelligent Border Video Analytics Platform
-- **Lead — AWS Student Builder Group, GEHU Bhimtal**
-- Organized **INNOVATE 1.0 Ideathon**
-- Started a **Data Engineering learning initiative** for students
-- Earned **NPTEL — Data Structures and Design**
-- Earned **LeetCode 100 Days Badge**
-- **NCC B Certificate**
+- 🏆 **Smart India Hackathon 2026 Shortlisted** — Intelligent Border Video Analytics Platform (IBVAP)
+- 🥈 **Hack the Winter 2025 National Finalist**
+- ☁️ **Lead — AWS Student Builder Group**, Graphic Era Hill University, Bhimtal
+- 🧩 **350+ LeetCode Problems Solved**
+- 📜 **AWS Certified** — AWS Cloud Essentials & AWS Cloud Practitioner Essentials
+- 📜 **NPTEL Certified** — Data Structures and Design
+- 🎖️ **NCC 'B' Certificate** — National Cadet Corps
 
 ---
 
@@ -326,23 +300,19 @@ Object Detection · Tracking · Video Analytics
 
 ### ☁️ Lead — AWS Student Builder Group
 
-**Graphic Era Hill University, Bhimtal**
+**Graphic Era Hill University, Bhimtal** *(July 2026 – Present)*
 
-I help organize student-focused initiatives around:
+Leading student-focused initiatives around software development and cloud computing:
 
-`Software Development`
+`Peer Learning Sessions`
 
-`Cloud Computing`
+`Cloud Computing & AWS`
 
-`Data Engineering`
+`Software Architecture`
 
-`Problem Solving`
+`INNOVATE 1.0 Ideathon Organization`
 
-`Technical Workshops`
-
-`Coding Initiatives`
-
-`Campus Technology Events`
+`Technical Workshops & Coding Sessions`
 
 ---
 
@@ -354,17 +324,16 @@ I help organize student-focused initiatives around:
 
 <br/>
 
-I enjoy developing applications that combine clean user experiences with reliable backend systems.
+I enjoy developing applications that combine clean user experiences with reliable, resilient backend systems.
 
-My primary interests include:
+My primary focus areas include:
 
-- Full-stack applications
-- Backend services
-- REST APIs
-- Real-time communication systems
-- Cloud-based applications
-- Computer vision systems
-- Developer tools
+- Reliable financial & payment backends (Idempotency, Ledgers, Transactional Outboxes)
+- Full-stack web applications
+- REST APIs & Microservices
+- Real-time event-driven systems
+- Cloud-hosted containerized applications
+- Computer vision analytics platforms
 
 </details>
 
@@ -376,15 +345,13 @@ My primary interests include:
 
 <br/>
 
-I'm currently strengthening my understanding of:
+I'm currently deepening my knowledge in:
 
-- Data Structures & Algorithms
-- Low-Level System Design
-- Backend Architecture
-- Database Design
-- Cloud Computing
-- Real-Time Systems
-- Software Engineering
+- Advanced Data Structures & Algorithms
+- Low-Level & High-Level System Design
+- Financial Ledger Patterns & System Idempotency
+- Cloud Architecture & AWS Solutions
+- Software Development Lifecycle (SDLC) & CI/CD Pipelines
 
 </details>
 
@@ -396,13 +363,10 @@ I'm currently strengthening my understanding of:
 
 <br/>
 
-- Distributed Systems
-- Scalable Backend Architecture
-- Cloud Infrastructure
-- Microservices
-- AI-powered applications
-- Machine Learning
-- System Design
+- High-Throughput Distributed Systems
+- Advanced Cloud Infrastructure & Automation
+- Event-Driven Microservice Architectures
+- AI-Powered Backend Applications
 
 </details>
 
@@ -415,8 +379,8 @@ I'm currently strengthening my understanding of:
 <br/>
 
 > Build things that solve real problems.  
-> Understand how they work.  
-> Improve them one iteration at a time.
+> Understand how they work from first principles.  
+> Write clean, maintainable code and iterate continuously.
 
 </details>
 
