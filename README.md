@@ -47,7 +47,7 @@
 - ⚙️ I enjoy building **reliable backend systems, REST APIs, idempotent financial workflows, and real-time applications**
 - 💬 Ask me about **C++, Node.js, Express.js, React.js, Python, SQL, REST APIs & System Design**
 - 🌐 Explore my work at **[My Portfolio](https://sumit-portfolio-ten-xi.vercel.app/)**
-- 📄 View my **[Resume](https://drive.google.com/file/d/1K741g_C2dEbd7_Ja2pjImNclZKHneEzX/view?usp=sharing)**
+- 📄 View my **[Resume](https://drive.google.com/file/d/1_T00FSGCDXKDVOj7C8NkZNBvgcmUwHTk/view?usp=sharing)**
 - 🎤 Fun fact: **I am a singer**
 
 ---
