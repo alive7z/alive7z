@@ -29,14 +29,6 @@
 </a>
 
 
-
-
-<img src="https://komarev.com/ghpvc/?username=alive7z&amp;label=Profile%20Views&amp;color=0969DA&amp;style=flat-square" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/alive7z?label=Followers&amp;style=flat-square&amp;logo=github" alt="GitHub Followers"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&amp;query=%24.public_repos&amp;url=https%3A%2F%2Fapi.github.com%2Fusers%2Falive7z&amp;style=flat-square&amp;logo=github&amp;color=0969DA" alt="Public Repositories"/>
-
 </div>
 
 👨‍💻 About Me
