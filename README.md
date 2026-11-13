@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/alive7z">
   <img src="https://img.shields.io/badge/LeetCode-alive7z-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
 </a>
-<a href="https://drive.google.com/file/d/1_T00FSGCDXKDVOj7C8NkZNBvgcmUwHTk/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1Msadj1rqWWlvgB7MG-0hgPjrFH6r2n0w/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="View Resume"/>
 </a></div>👨‍💻 About Me
 - 🔭 Currently building IBVAP — Intelligent Border Video Analytics Platform & Pratyaya — Payment Reliability Platform
